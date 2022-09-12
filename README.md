@@ -3,7 +3,6 @@
 My name is Olga, I am 24 years old. I’m currently looking for a job as Manual QA Engineer (junior/trainee). Also I took the Artsiom Rusau's online course "Тестировщик с нуля. Web, Mobile, Postman, SQL, Git, Bash" on Udemy. 
 
 Currently I have such knowledge as:
-Hard skills:
 - OS at the advanced user level;
 - Software testing theory: 
 - principles of testing,
