@@ -17,3 +17,5 @@
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/grin.chick?r=nametag)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/olga_grinyova)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/olga-grinyova-79792623b/)
+
+![Olga's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaGrinyova&show_icons=true&theme=radical)]
