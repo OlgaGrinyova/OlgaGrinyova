@@ -1,4 +1,4 @@
-[![Header](https://github.com/OlgaGrinyova/OlgaGrinyova/blob/main/assets/main_windows.png)](https://www.linkedin.com/in/olga-grinyova-79792623b/)
+# 🙋 Welcome 
 
 ## I'm a Manual QA Engineer
 
