@@ -1,5 +1,7 @@
 # 🙋 Welcome 
 
+My name is Olga, I am 24 years old. I’m currently looking for a job as Manual QA Engineer (junior/trainee). Also I took the Artsiom Rusau's online course "Тестировщик с нуля. Web, Mobile, Postman, SQL, Git, Bash" on Udemy. 
+
 ### Languages and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
