@@ -1,4 +1,4 @@
-[![Header](https://github.com/OlgaGrinyova/OlgaGrinyova/blob/main/assets/Vid.jpg)](https://www.linkedin.com/in/olga-grinyova-79792623b/)
+[![Header](<img src="https://github.com/OlgaGrinyova/OlgaGrinyova/blob/main/assets/Vid.jpg" alt="The Unlimited" width="180"/>)](https://www.linkedin.com/in/olga-grinyova-79792623b/)
 
 ## I'm a Manual QA Engineer
 
