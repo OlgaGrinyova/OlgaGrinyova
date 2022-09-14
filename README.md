@@ -1,8 +1,10 @@
 # 🙋 Welcome 
 
-😀 My name is Olga, I am 24 years old. I’m currently looking for a job as Manual QA Engineer (junior/trainee). Also I took the Artsiom Rusau's online course "Тестировщик с нуля. Web, Mobile, Postman, SQL, Git, Bash" on Udemy. 
+😀 My name is Olga. I’m currently looking for a job as Manual QA Engineer (junior/trainee). 
 
-Currently I have such knowledge as:
+I have an experience in mobile testing, web testing, API testing with Postman, writing check-lists, test-cases, bug-reports, experience using data manipulation commands in MySQL, using Bash commands.
+
+And also I know:
 - OS at the advanced user level;
 - Software testing theory: 
 - principles of testing,
@@ -11,11 +13,8 @@ Currently I have such knowledge as:
 - basics of client-server architecture,
 - software development methodologies, 
 - Scrum working principles; 
-- experience in writing checklists, test cases, bug reports;
 - basic knowledge and skills with Chrome DevTools ( view code elements, errors, scripts and server responses);
-- basic knowledge and skills with Postman: sending GET, POST, PUT, DELETE, PATCH requests, checking JSON structure, code status and response values;
-- MySQL: SELECT, DROP / ADD COLUMN, CREATE, DESC, SHOW, DELETE, UPDATE, INSERT, LIKE, BETWEEN, ORDER BY, LIMIT, DISTINCT;
-- basic knowledge of Bash commands
+- basic knowledge and skills with Postman: sending requests, checking JSON structure, code status and response values;
 - TestRail, Jira, Azure DevOps.
 - basics of HTML / CSS
 - Sniffers: Charles Proxy/Fiddler Everywhere
