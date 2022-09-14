@@ -2,7 +2,7 @@
 
 😀 My name is Olga. I’m currently looking for a job as Manual QA Engineer (junior/trainee). 
 
-I have an experience in mobile testing, web testing, API testing with Postman, writing check-lists, test-cases, bug-reports, experience using data manipulation commands in MySQL, using Bash commands.
+I have an experience in Mobile testing, Web testing, API testing with Postman, writing check-lists, test-cases, bug-reports, experience using data manipulation commands in MySQL, using Bash commands.
 
 And also I know:
 - OS at the advanced user level;
