@@ -4,7 +4,7 @@
 
 I have an experience in Mobile testing, Web testing, API testing with Postman, writing check-lists, test-cases, bug-reports, experience using data manipulation commands in MySQL, using Bash commands.
 
-And also I know:
+Also I have such knowledge as:
 - OS at the advanced user level;
 - Software testing theory: 
 - principles of testing,
