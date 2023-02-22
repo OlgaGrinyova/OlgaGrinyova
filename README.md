@@ -1,4 +1,4 @@
-# 🙋 Welcome 
+# Welcome!
 
 😀 My name is Olga. I’m currently looking for a job as Manual QA Engineer (junior/trainee). 
 
